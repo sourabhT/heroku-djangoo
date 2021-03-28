@@ -1,1 +1,1 @@
-web: gunicorn herokuract.wsgi
+web: gunicorn crm1.wsgi
